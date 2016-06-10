@@ -1,3 +1,14 @@
+# Open Data Lightning Talk @ Lange Nacht der Wissenschaften Dresden 2016
+
+This is my Lightning Talk based on the wonderful reveal.js. I hope you were there and had fun seeing some Open Data :)
+
+## Live version: http://tocsinde.github.io/opendata
+
+Please have a look at the [live version](http://tocsinde.github.io/opendata) of my presentation (currently only available in German).
+
+## Here's the original README by reveal.js:
+
+
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js) <a href="https://slides.com?ref=github"><img src="https://s3.amazonaws.com/static.slid.es/images/slides-github-banner-320x40.png?1" alt="Slides" width="160" height="20"></a>
 
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
