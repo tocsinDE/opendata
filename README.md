@@ -2,9 +2,9 @@
 
 This is my Lightning Talk based on the wonderful reveal.js. I hope you were there and had fun seeing some Open Data :)
 
-## Live version: http://tocsinde.github.io/opendata
+## Live version: http://tocsinde.github.io/opendata-lndw2016
 
-Please have a look at the [live version](http://tocsinde.github.io/opendata) of my presentation (currently only available in German).
+Please have a look at the [live version](http://tocsinde.github.io/opendata-lndw2016) of my presentation (currently only available in German).
 
 ## Here's the original README by reveal.js:
 
